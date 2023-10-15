@@ -1,9 +1,9 @@
 # Functions: Architects of Logic
 
-In the realm of Coda, functions stand as the architects of logic, meticulously crafting sequences of actions to execute at your command. Much akin to their Python counterparts, Coda functions possess a distinctive elegance in their creation and execution.
+In the realm of code, functions stand as the architects of logic, meticulously crafting sequences of actions to execute at your command. Much akin to their Python counterparts, code functions possess a distinctive elegance in their creation and execution.
 
 ## Function Creation
-To summon forth a function, the `def` keyword serves as your incantation. Functions are born like any other variable, yet their purpose is imbued within the intricate dance of expressions that follow.
+To summon forth a function, the `def` keyword serves as your incantation. Functions are born like any other variable, yet their purpose is attached within the intricate dance of expressions that follow.
 
 ```py
 def add(x, y) {
@@ -19,7 +19,7 @@ add(5, 5);
 ```
 
 ## Function Assignment
-In the realm of functions, the boundaries between variables and functions blur. Functions, too, can take residence within variables, just as any other entity. Such assignments harness the power of functions for further manipulation.
+In the realm of functions, the boundaries between variables and functions blur. In addition, functions can take residence within variables, just as any other entity. Such assignments harness the power of functions for further manipulation.
 
 ```py
 def add(x, y) {
@@ -32,7 +32,7 @@ print(k);
 ```
 
 ## Functions in Objects
-The union of functions and objects yields an enchanting synergy. Functions become integral to objects, a key to unlocking their potential. As you define functions within objects, the function's name assumes the role of a key, ushering you into a world of structured logic.
+The amalgamation of functions and objects engenders a compelling synergy. Functions assume an integral role within objects, serving as a pivotal means to unlock their inherent potential. As you define functions within objects, the nomenclature of the functions takes on the mantle of a key, guiding you into a realm of meticulously structured logic.
 
 ```py
 let hello = {
@@ -46,7 +46,7 @@ let hello = {
 ```
 
 ## Interaction and Expression
-Coda's functions extend an invitation to interaction and expression. As you summon the function's essence with precise parameters, the symphony of actions orchestrated within unfolds, crafting an elegantly choreographed sequence of events.
+Coda's functions extend an invitation to engagement and creative expression. By summoning the essence of the function with meticulous parameters, a harmonious orchestration of actions takes place, resulting in an elegantly choreographed sequence of events.
 
 ```py
 let inp = input("What is your name? ");
@@ -56,7 +56,7 @@ hello.something(inp);
 ```
 
 ## Explicit Return
-In the art of function crafting, a distinctive feature emerges: the last executed statement within a function is no longer automatically returned by default. Instead, you can use the `return` keyword to explicitly specify the value to be returned.
+Within the domain of function composition, a notable feature distinguishes itself: the automatic default return of the last executed statement within a function is no longer in effect. Instead, the 'return' function allows for explicit specification of the desired return value.
 
 ```py
 def multiply(x, y) {
@@ -64,4 +64,4 @@ def multiply(x, y) {
 }
 ```
 
-In the world of Coda, functions stand not as mere tools, but as the artisans of your programming tapestry. Their creation, invocation, and integration within objects mark a journey into the realm of structured logic, weaving a narrative of precision and expression.
+Within the world of Coda, functions serve as more than mere tools; they emerge as the master craftsmen of you programming canvas. The process of thier creation, invocation, and integration within objects embarks on a journey into the realm of structured logic, weaving a narrative characterized by precision and expressive artistry.
